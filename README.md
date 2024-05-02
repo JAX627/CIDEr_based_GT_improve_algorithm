@@ -10,3 +10,5 @@
 ![image](https://github.com/JAX627/CIDEr_based_GT_improve_algorithm/assets/113168400/66c6c439-3203-40a8-b601-b0038da0434f)
 
 ## Detailed Algo can be found in RMS_REPORT_JIANGXIN.pdf
+![image](https://github.com/JAX627/CIDEr_based_GT_improve_algorithm/assets/113168400/069e5f7f-cd69-48b5-be74-f794c7d22d78)
+![Uploading image.png…]()
